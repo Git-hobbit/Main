@@ -1,1 +1,1 @@
-#This folder holds all the working codes
+# The main folder holds all the working codes
